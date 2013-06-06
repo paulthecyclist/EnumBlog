@@ -1,0 +1,7 @@
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\bin\Debug\MVC4-play.Resources.dll
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\bin\Debug\MVC4-play.Resources.pdb
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\MVC4-play.Resources.csprojResolveAssemblyReference.cache
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\MVC4_play.Resources.Enums.resources
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\MVC4-play.Resources.csproj.GenerateResource.Cache
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\MVC4-play.Resources.dll
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\MVC4-play.Resources.pdb

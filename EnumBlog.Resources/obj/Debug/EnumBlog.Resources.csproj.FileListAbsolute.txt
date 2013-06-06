@@ -1,0 +1,13 @@
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\bin\Debug\EnumBlog.Resources.dll
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\bin\Debug\EnumBlog.Resources.pdb
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\EnumBlog.Resources.Enums.resources
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\EnumBlog.Resources.csproj.GenerateResource.Cache
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\EnumBlog.Resources.dll
+C:\development\paulthecyclist\MVC4-play\MVC4-play.Resources\obj\Debug\EnumBlog.Resources.pdb
+C:\development\paulthecyclist\EnumBlog\EnumBlog.Resources\bin\Debug\EnumBlog.Resources.dll
+C:\development\paulthecyclist\EnumBlog\EnumBlog.Resources\bin\Debug\EnumBlog.Resources.pdb
+C:\development\paulthecyclist\EnumBlog\EnumBlog.Resources\obj\Debug\EnumBlog.Resources.csprojResolveAssemblyReference.cache
+C:\development\paulthecyclist\EnumBlog\EnumBlog.Resources\obj\Debug\EnumBlog.Resources.Enums.resources
+C:\development\paulthecyclist\EnumBlog\EnumBlog.Resources\obj\Debug\EnumBlog.Resources.csproj.GenerateResource.Cache
+C:\development\paulthecyclist\EnumBlog\EnumBlog.Resources\obj\Debug\EnumBlog.Resources.dll
+C:\development\paulthecyclist\EnumBlog\EnumBlog.Resources\obj\Debug\EnumBlog.Resources.pdb

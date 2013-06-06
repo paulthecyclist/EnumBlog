@@ -1,0 +1,28 @@
+﻿@model EnumBlog.MVC.Models.PersonViewModel
+
+@{
+    ViewBag.Title = "Add Person";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm()) {   
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Person</legend>
+
+            @Html.EditorForModel()      
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

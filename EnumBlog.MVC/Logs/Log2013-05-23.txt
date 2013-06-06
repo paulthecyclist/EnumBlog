@@ -1,0 +1,38 @@
+[515] ERROR 2013-05-23 11:22:28,536 - System.ArgumentException: Type provided must be an Enum.
+Parameter name: enumType
+   at System.RuntimeType.GetEnumValues()
+   at System.Enum.GetValues(Type enumType)
+   at MVC4_play.Extensions.HtmlHelperExtensions.EnumDropDownListFor[TModel,TEnum](HtmlHelper`1 html, Expression`1 expression) in c:\development\paulthecyclist\MVC4-play\MVC4-play\Extensions\HtmlHelperExtensions.cs:line 30
+   at ASP._Page_Views_Shared_EditorTemplates_String_cshtml.Execute() in c:\development\paulthecyclist\MVC4-play\MVC4-play\Views\Shared\EditorTemplates\String.cshtml:line 6
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.Html.TemplateHelpers.ActionCacheViewItem.Execute(HtmlHelper html, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.TemplateHelpers.ExecuteTemplate(HtmlHelper html, ViewDataDictionary viewData, String templateName, DataBoundControlMode mode, GetViewNamesDelegate getViewNames, GetDefaultActionsDelegate getDefaultActions)
+   at System.Web.Mvc.Html.TemplateHelpers.TemplateHelper(HtmlHelper html, ModelMetadata metadata, String htmlFieldName, String templateName, DataBoundControlMode mode, Object additionalViewData, ExecuteTemplateDelegate executeTemplate)
+   at System.Web.Mvc.Html.TemplateHelpers.TemplateHelper(HtmlHelper html, ModelMetadata metadata, String htmlFieldName, String templateName, DataBoundControlMode mode, Object additionalViewData)
+   at System.Web.Mvc.Html.DefaultEditorTemplates.ObjectTemplate(HtmlHelper html, TemplateHelperDelegate templateHelper)
+   at System.Web.Mvc.Html.DefaultEditorTemplates.ObjectTemplate(HtmlHelper html)
+   at System.Web.Mvc.Html.TemplateHelpers.ExecuteTemplate(HtmlHelper html, ViewDataDictionary viewData, String templateName, DataBoundControlMode mode, GetViewNamesDelegate getViewNames, GetDefaultActionsDelegate getDefaultActions)
+   at System.Web.Mvc.Html.TemplateHelpers.TemplateHelper(HtmlHelper html, ModelMetadata metadata, String htmlFieldName, String templateName, DataBoundControlMode mode, Object additionalViewData, ExecuteTemplateDelegate executeTemplate)
+   at System.Web.Mvc.Html.TemplateHelpers.TemplateHelper(HtmlHelper html, ModelMetadata metadata, String htmlFieldName, String templateName, DataBoundControlMode mode, Object additionalViewData)
+   at System.Web.Mvc.Html.EditorExtensions.EditorForModel(HtmlHelper html)
+   at ASP._Page_Views_person_Add_cshtml.Execute() in c:\development\paulthecyclist\MVC4-play\MVC4-play\Views\Person\Add.cshtml:line 15
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   at System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ 
